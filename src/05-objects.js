@@ -8,7 +8,8 @@
  * // person might be { name: 'John Doe', age: 30, city: 'New York' }
  */
 function createPersonObject() {
-
+    const person = {name:'John Doe',age:30,city:'New York'};
+    return
 }
 
 
